@@ -1,0 +1,22 @@
+h1 {
+    margin: 10px;
+  }
+  
+  .button {
+    border: none;
+    cursor: pointer;
+    margin: 5px 10px;
+    padding: 15px 40px;
+    border-radius: 2px;
+    font-size: 14px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: white;
+    background: #25a57a;
+    transition: 0.3s;
+  }
+  
+  .button:hover {
+    box-shadow: 0px 2px 8px 2px rgba(141,150,178,.3);
+    transform: scale(1.05);
+  }
